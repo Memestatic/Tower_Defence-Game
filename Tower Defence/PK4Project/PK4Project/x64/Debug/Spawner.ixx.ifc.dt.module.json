@@ -1,7 +1,7 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\kziaj\\desktop\\tower defence\\pk4project\\spawner.ixx",
+        "Source": "d:\\github repos\\tower-defence\\tower defence\\pk4project\\spawner.ixx",
         "ProvidedModule": "Spawner",
         "ImportedModules": [
             "Enemy"

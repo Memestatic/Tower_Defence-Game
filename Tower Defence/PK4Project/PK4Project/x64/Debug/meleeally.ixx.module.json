@@ -5,14 +5,14 @@
         {
             "primary-output": "PK4Project\\x64\\Debug\\MeleeAlly.ixx.obj",
             "outputs": [
-                "C:\\Users\\kziaj\\Desktop\\Tower Defence\\PK4Project\\PK4Project\\x64\\Debug\\vc143.pdb",
+                "D:\\Github repos\\Tower-Defence\\Tower Defence\\PK4Project\\PK4Project\\x64\\Debug\\vc143.pdb",
                 "PK4Project\\x64\\Debug\\",
-                "C:\\Users\\kziaj\\Desktop\\Tower Defence\\PK4Project\\PK4Project\\x64\\Debug\\MeleeAlly.ixx.ifc"
+                "D:\\Github repos\\Tower-Defence\\Tower Defence\\PK4Project\\PK4Project\\x64\\Debug\\MeleeAlly.ixx.ifc"
             ],
             "provides": [
                 {
                     "logical-name": "MeleeAlly",
-                    "source-path": "c:\\users\\kziaj\\desktop\\tower defence\\pk4project\\meleeally.ixx",
+                    "source-path": "d:\\github repos\\tower-defence\\tower defence\\pk4project\\meleeally.ixx",
                     "is-interface": true
                 }
             ],
