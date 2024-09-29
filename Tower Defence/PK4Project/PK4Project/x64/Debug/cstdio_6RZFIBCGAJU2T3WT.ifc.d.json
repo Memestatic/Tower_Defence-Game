@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\microsoft\\visualstudio\\ide\\vc\\tools\\msvc\\14.39.33519\\include\\cstdio",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\microsoft\\visualstudio\\ide\\vc\\tools\\msvc\\14.39.33519\\include\\yvals_core.h",
+            "d:\\microsoft\\visualstudio\\ide\\vc\\tools\\msvc\\14.39.33519\\include\\vcruntime.h",
+            "d:\\microsoft\\visualstudio\\ide\\vc\\tools\\msvc\\14.39.33519\\include\\sal.h",
+            "d:\\microsoft\\visualstudio\\ide\\vc\\tools\\msvc\\14.39.33519\\include\\concurrencysal.h",
+            "d:\\microsoft\\visualstudio\\ide\\vc\\tools\\msvc\\14.39.33519\\include\\vadefs.h",
+            "d:\\microsoft\\visualstudio\\ide\\vc\\tools\\msvc\\14.39.33519\\include\\xkeycheck.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\stdio.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\github repos\\7302aeff-gr61-repo\\projekt\\pk4project\\settings.ixx",
+        "ProvidedModule": "Settings",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "D:\\Microsoft\\VisualStudio\\IDE\\VC\\Tools\\MSVC\\14.39.33519\\include\\iostream"
+        ]
+    }
+}

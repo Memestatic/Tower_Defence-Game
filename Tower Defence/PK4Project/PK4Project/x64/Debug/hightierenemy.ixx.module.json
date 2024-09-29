@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PK4Project\\x64\\Debug\\HighTierEnemy.ixx.obj",
+            "outputs": [
+                "C:\\Users\\kziaj\\Desktop\\Tower Defence\\PK4Project\\PK4Project\\x64\\Debug\\vc143.pdb",
+                "PK4Project\\x64\\Debug\\",
+                "C:\\Users\\kziaj\\Desktop\\Tower Defence\\PK4Project\\PK4Project\\x64\\Debug\\HighTierEnemy.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "HighTierEnemy",
+                    "source-path": "c:\\users\\kziaj\\desktop\\tower defence\\pk4project\\hightierenemy.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Enemy"
+                },
+                {
+                    "logical-name": "Spawner"
+                }
+            ]
+        }
+    ]
+}

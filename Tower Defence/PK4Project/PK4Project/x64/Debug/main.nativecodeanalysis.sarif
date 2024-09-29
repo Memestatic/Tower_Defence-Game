@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33523.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/github repos/7302aeff-gr61-repo/projekt/pk4project/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "99403e6d18b0de78d939d1e3259a82ce632d333c6c58fdfa940927ba22dcdd3e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/github repos/7302aeff-gr61-repo/projekt/pk4project/game.h"
+          },
+          "hashes": {
+            "sha-256": "78910710dbc57729969c19170d7127fa86b5bc03407a73295fa7069c2f898d72"
+          }
+        }
+      ]
+    }
+  ]
+}

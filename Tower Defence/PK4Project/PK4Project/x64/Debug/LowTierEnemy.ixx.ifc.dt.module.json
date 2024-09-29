@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kziaj\\desktop\\tower defence\\pk4project\\lowtierenemy.ixx",
+        "ProvidedModule": "LowTierEnemy",
+        "ImportedModules": [
+            "Enemy",
+            "Spawner"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

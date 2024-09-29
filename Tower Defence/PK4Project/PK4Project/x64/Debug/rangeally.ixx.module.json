@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PK4Project\\x64\\Debug\\RangeAlly.ixx.obj",
+            "outputs": [
+                "C:\\Users\\kziaj\\Desktop\\Tower Defence\\PK4Project\\PK4Project\\x64\\Debug\\vc143.pdb",
+                "PK4Project\\x64\\Debug\\",
+                "C:\\Users\\kziaj\\Desktop\\Tower Defence\\PK4Project\\PK4Project\\x64\\Debug\\RangeAlly.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "RangeAlly",
+                    "source-path": "c:\\users\\kziaj\\desktop\\tower defence\\pk4project\\rangeally.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Ally"
+                },
+                {
+                    "logical-name": "Enemy"
+                },
+                {
+                    "logical-name": "Missile"
+                }
+            ]
+        }
+    ]
+}

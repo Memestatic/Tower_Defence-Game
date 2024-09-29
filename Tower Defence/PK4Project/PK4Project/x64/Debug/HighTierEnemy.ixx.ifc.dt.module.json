@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kziaj\\desktop\\tower defence\\pk4project\\hightierenemy.ixx",
+        "ProvidedModule": "HighTierEnemy",
+        "ImportedModules": [
+            "Enemy",
+            "Spawner"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

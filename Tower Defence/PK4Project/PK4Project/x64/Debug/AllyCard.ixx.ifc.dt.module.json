@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kziaj\\desktop\\tower defence\\pk4project\\allycard.ixx",
+        "ProvidedModule": "AllyCard",
+        "ImportedModules": [
+            "Ally",
+            "RangeAlly",
+            "MeleeAlly",
+            "TankAlly",
+            "SupportAlly"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

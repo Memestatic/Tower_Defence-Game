@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kziaj\\desktop\\tower defence\\pk4project\\player.ixx",
+        "ProvidedModule": "Player",
+        "ImportedModules": [
+            "PopUp"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
